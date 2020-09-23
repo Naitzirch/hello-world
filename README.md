@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hi!
+
+Naitzirch here. Nice weather isn't it?
